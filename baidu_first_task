@@ -1,5 +1,112 @@
 <!DOCTYPE html>
 <html>
-<head></head>
-<body></body>
+<head>
+	<meta charset="utf-8">
+	<title>pure_html</title>
+	<style type="text/css">
+		a{
+			text-decoration: none;
+			color: blue;
+		}
+		table{
+			text-align: center;
+		}
+		.intro
+		{
+			resize:none; 
+			width:200px; 
+			height:120px;
+		}
+	</style>
+</head>
+<body>
+<h1><strong>下午茶时光</strong></h1>
+<ul>
+  <li>咖啡</li>
+  <li>茶</li>
+  <li>牛奶</li>
+  <li>果汁</li>
+</ul>
+<h2>下午音乐厅</h2>
+<h3>至姗姗来迟的你</h3>
+<p>我不介意你慢动作,也不介意这次先擦肩而过,吃一人份的饭,刷一人份的碗,真的我并没有觉得孤单,逛一人份的街,买一人份的单,真的我并没有觉得孤单
+,我相信你正在与我相遇的路上马不停蹄,所以当我拥抱整个世界的孤寂,也像拥抱着你<br>我不介意你慢动作,也不介意这次先擦肩而过,某天我们总会遇到对方然后说
+原来是你噢.我不介意你慢动作,也不介意这次先擦肩而过,某天你会发现灯火阑珊处的我,等了你好久噢. <br>吃一人份的饭,刷一人份的碗,真的我并没有觉得孤单.逛一人份的街,
+买一人份的单,真的我并没有觉得孤单,我相信你正在与我相遇的路上马不停蹄,所以当我拥抱整个世界的孤寂,也像拥抱着你. <br>我不介意你慢动作,也不介意这次先擦肩而过,
+某天我们总会遇到对方然后说,原来是你噢.我不介意你慢动作,也不介意这次先擦肩而过,某天你会发现灯火阑珊处的我,等了你好久噢. <br>正在与我相遇的路上马不停蹄,
+就算这次先擦肩而过,所以当我拥抱整个世界的孤寂,也像拥抱着你,我不介意你慢动作,也不介意这次先擦肩而过,某天我们总会遇到对方然后说,好巧噢
+ <br>你总会等到姗姗来迟的我,我总会等到姗姗来迟的你,我总会等到姗姗来迟的你,你总会等到姗姗来迟的我.————<a href = "http://music.163.com/#/playlist?id=476505971">致姗姗来迟的你</a></p>
+<img src="drink.jpg">
+<p>阿肆<br>阿肆，原名放肆的肆，1989年7月4日出生于上海市，中国内地女歌手。2010年，阿肆以“放肆的肆”为名在豆瓣上注册音乐人并发布了多首歌曲。2011年，推出个人单曲《我在人民广场吃炸鸡》，并由此开始崭露头角。2012年，阿肆签约摩登天空  。2013年，推出首张个人音乐专辑《预谋邂逅》 ；同年，获得“第六届音乐风云榜新人盛典”最佳民谣歌手[4]  。2014年，凭借《我在人民广场吃炸鸡》获得“第21届东方风云榜颁奖盛典”十大金曲奖。2015年，在苏州、合肥、南京、上海举办“好肆初见”四城肆听会。</p>
+<h2>下午BALLET厅</h2>
+<h3>jazz灵魂舞者</h3>
+<p>侯宏澜&nbsp1976年10月19日</p>
+<p>
+<a href="http://business.sohu.com/20161025/n471293893.shtml">侯宏澜</a>,1976年10月19日出生于四川成都。芭蕾表演演员、编舞，国家一级演员，四川省舞蹈学校及四川省职业艺术学院客座教授。曾任法国莱茵芭蕾舞团及中国国家芭蕾舞团首席独舞。
+1982年考入四川省成都市少儿艺术团。1986年，考入四川省舞蹈学校。1988年，获得全国第二届“桃李杯”少年组民间舞优秀表演奖；同年9月，考入北京舞蹈学院附中芭蕾中专班。1990年6月，中国文化部在北京舞蹈学院举行的少年组选拔赛中获女选手第一名，1991年8月获全国第三届“桃李杯”女子少年组铜奖。1993年毕业后又考入北京舞蹈学院表演系，专业从最初的民族舞蹈转为芭蕾舞。1994年8月获全国第四届“桃李杯”青年女子组金奖。1997年，获得第四届卢森堡国际芭蕾舞大赛女子独舞金奖。 </p>
+<img src="ballet.jpg">
+<ul>
+	<li>jazz</li>
+	<li>hip-pop</li>
+	<li>breaking</li>
+</ul>
+<h2>相机馆</h2>
+<ul>
+	<li><p>NIKON</p><img src="Nikon.jpg" height="100px" width="100px" alt="Nikon"></li>
+	<li><p>CANON</p><img src="canon.jpg" height="55px" width="200px" align="Canon"></li>
+	<li><p>SONY</p><img src="sony.jpg" height="125px" width="200px"></li>
+	<li><p>PENTAX</p><img src="pentax.jpg" height="55px" width="200px" ></li>
+	<li><p>LEICA</p><img src="leica.jpg" height="110px" width="300px" ></li>
+</ul>
+<h2>畅销书籍排行榜</h2>
+<h3>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp————2016年度</h3>
+<ol>
+	<li>《追风筝的人》</li>
+	<li>《偷影子的人》</li>
+	<li>《岛》</li>
+</ol>
+<br>
+<p>书目信息</p>
+<table border="2px">
+<tr>
+  <td>《追风筝的人》</td><td>30元</td><td>文学出版社</td>
+</tr>
+<tr>
+  <td>《偷影子的人》</td><td>30元</td><td>文学出版社</td>
+</tr>
+<tr>
+  <td>《岛》</td><td>30元</td><td>文学出版社</td>
+</tr>
+<tr>
+  <td>文学统计局</td><th colspan="2">2016年度数据</th>
+</tr>
+</table>
+<br>
+<hr>
+<h2>下午茶馆会员信息登记</h2>
+<p>会员邮箱:<input type="email" placeholder="xxxxxxxx@xxxxx.com" name="email"></p>
+<p>请按正确的格式填写邮箱</p>
+<p>请输入密码:<input type="password" name="key">&nbsp请重复输入密码：<input type="password" name="rkey"></p>
+<p>密码为6到16位的数字或者字母序列</p>
+<p>请选择您的性别:
+<input type="radio" name="sex" value="男" checked>男
+<input type="radio" name="sex" value="女">女
+&nbsp&nbsp城市：
+<select>
+  <option value="volvo">Volvo</option>
+  <option value="saab">Saab</option>
+  <option value="opel">Opel</option>
+  <option value="audi">Audi</option>
+</select>
+&nbsp&nbsp 爱好：
+<input type="checkbox" name="sports">运动
+<input type="checkbox" name="music">音乐
+<input type="checkbox" name="camera">摄影
+<br><br>个人描述:
+<!-- <input type="textarea" name="introduce" placeholder="请输入不少于50字的个人介绍" required> -->
+<textarea name="a" class="intro" >这里写内容</textarea>&nbsp
+<input type="submit" value="Submit">
+</p>
+<p>版权所有&copy</p>
+</body>
 </html>
